@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Modul2ClassWork
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //#1
             var firstNumber = 7;
@@ -84,7 +84,6 @@ namespace ConsoleApp1
             Console.WriteLine("Произведение чисел: " + multiFour);
 
             Console.ReadLine();
-
         }
     }
 }

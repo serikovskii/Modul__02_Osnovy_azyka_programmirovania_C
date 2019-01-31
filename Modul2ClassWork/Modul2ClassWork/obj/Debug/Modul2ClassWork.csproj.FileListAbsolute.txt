@@ -1,0 +1,7 @@
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\bin\Debug\Modul2ClassWork.exe.config
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\bin\Debug\Modul2ClassWork.exe
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\bin\Debug\Modul2ClassWork.pdb
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\obj\Debug\Modul2ClassWork.csprojAssemblyReference.cache
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\obj\Debug\Modul2ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\obj\Debug\Modul2ClassWork.exe
+C:\Users\МукушевА\Source\Repos\Modul2ClassWork\Modul2ClassWork\Modul2ClassWork\obj\Debug\Modul2ClassWork.pdb

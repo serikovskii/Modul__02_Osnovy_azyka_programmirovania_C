@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassWork2
+namespace Modul2HomeWork
 {
-    public class Program
+    class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-
             // 1.	Составить программу вывода на экран в одну строку трех любых чисел с двумя пробелами между ними.
             string numberOne = "5";
             string numberTwo = "10";
@@ -25,9 +24,10 @@ namespace ClassWork2
             // 3.	Дано расстояние в сантиметрах. Найти число полных метров в нем.
             double centimeters;
             double metr;
+            Console.WriteLine("Введите число в сантиметрах: ");
             centimeters = Int32.Parse(Console.ReadLine());
             metr = centimeters / 10;
-            Console.WriteLine(metr);
+            Console.WriteLine(metr + " метров");
             Console.WriteLine();
             // 4.	С некоторого момента прошло 234 дня. Сколько полных недель прошло за этот период?
             double week;
@@ -117,6 +117,7 @@ namespace ClassWork2
             {
                 Console.WriteLine(i);
             }
+            Console.ReadLine();
         }
     }
 }
